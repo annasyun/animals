@@ -1,0 +1,35 @@
+/* layouts */
+.wrapper {
+    width: 300px;
+    margin: 0 auto;
+}
+
+/* Components */
+body {
+    margin: 0;
+    background-image: url(/alldaycss-study/animals/images/bg.png);
+}
+
+
+
+.fox {
+    vertical-align: top;
+}
+
+.main {
+    color: white;
+    background-color: #8e542a;
+    background-image: url(/alldaycss-study/animals/images/green.png);
+    background-repeat: no-repeat;
+    padding: 60px 15px 20px 15px;
+    border-radius: 0px 0px 20px 20px;
+    border-bottom: 10px solid #412b1a; 
+}
+
+.animal-info {
+    color:antiquewhite;
+}
+
+.animal-name {
+    margin-top: 0;
+}
